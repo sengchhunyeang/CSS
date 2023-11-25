@@ -1,6 +1,6 @@
 
 package printarray;
-import java.lang.ArrayIndex;
+
 public class PrintArray {
 
     public static void main(String[] args) {
